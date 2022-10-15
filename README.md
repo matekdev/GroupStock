@@ -6,4 +6,3 @@ create groups where they can view a curated stock watch list.
 
 <img src="imgs/1.png" alt="1" style="height: 320px; width:600px;"/>
 <img src="imgs/2.png" alt="1" style="height: 520px; width:600px;"/>
-<img src="imgs/3.png" alt="1" style="height: 510px; width:600px;"/>
